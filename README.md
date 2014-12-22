@@ -2,7 +2,7 @@
 * TCC
 * Robótica
 * Javascript
-* Java  :trollface:
+* Java &nbsp; :trollface:
 
 <h2>Eventos</h2>
 * Front in Floripa
